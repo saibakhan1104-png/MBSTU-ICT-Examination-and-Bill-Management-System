@@ -1,8 +1,8 @@
 # MBSTU ICT Department Examination & Semester Bill Management System
 
-[![Live Demo](https://img.shields.io/badge/Live_System-GitHub_Pages-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://antor1112225.github.io/MBSTU-ICT-Examination-and-Bill-Management-System/)
-[![GitHub Repo](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antor1112225/MBSTU-ICT-Examination-and-Bill-Management-System)
-[![Status](https://img.shields.io/badge/Build-Passing-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](https://antor1112225.github.io/MBSTU-ICT-Examination-and-Bill-Management-System/)
+[![Live Demo](https://img.shields.io/badge/Live_System-GitHub_Pages-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saibakhan1104-png.github.io/MBSTU-ICT-Examination-and-Bill-Management-System/)
+[![GitHub Repo](https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saibakhan1104-png/MBSTU-ICT-Examination-and-Bill-Management-System)
+[![Status](https://img.shields.io/badge/Build-Passing-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](https://saibakhan1104-png.github.io/MBSTU-ICT-Examination-and-Bill-Management-System/)
 
 ---
 
@@ -12,8 +12,15 @@
 * **Department:** Department of Information and Communication Technology (ICT)  
 * **Project Type:** Software Engineering Examination & Remuneration Automation System  
 
-### 👤 Developed By
-* **Md Tahmid Hasib Antor** (Sole Architect & Developer) — **Student ID: IT24055**  
+### 👥 Developed By (Team)
+* **Saiba Khan** — **Student ID: IT24006**  
+  * **Department:** Department of Information and Communication Technology (ICT)  
+  * **Faculty:** Faculty of Engineering  
+  * **Institution:** Mawlana Bhashani Science and Technology University (MBSTU)  
+  * **Email:** `saibakhan1104@gmail.com` | `it24006@mbstu.ac.bd`  
+  * **GitHub Profile:** [@saibakhan1104-png](https://github.com/saibakhan1104-png)
+
+* **Md Tahmid Hasib Antor** — **Student ID: IT24055**  
   * **Department:** Department of Information and Communication Technology (ICT)  
   * **Faculty:** Faculty of Engineering  
   * **Institution:** Mawlana Bhashani Science and Technology University (MBSTU)  
@@ -87,10 +94,10 @@ Then visit `http://localhost:5000` in your web browser.
 ---
 
 ## 🌐 Live System Demo
-Access the live production deployment hosted on GitHub Pages:  
-👉 **[https://antor1112225.github.io/MBSTU-ICT-Examination-and-Bill-Management-System/](https://antor1112225.github.io/MBSTU-ICT-Examination-and-Bill-Management-System/)**
+Access the live deployment hosted on GitHub Pages:  
+👉 **[https://saibakhan1104-png.github.io/MBSTU-ICT-Examination-and-Bill-Management-System/](https://saibakhan1104-png.github.io/MBSTU-ICT-Examination-and-Bill-Management-System/)**
 
 ---
 
 ### © 2026 Department of Information and Communication Technology (ICT), MBSTU. All rights reserved.
-Developed by **Md Tahmid Hasib Antor** (`IT24055`).
+Developed by **Saiba Khan** (`IT24006`) and **Md Tahmid Hasib Antor** (`IT24055`).
